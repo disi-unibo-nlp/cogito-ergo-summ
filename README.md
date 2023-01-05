@@ -29,7 +29,7 @@ Experiments and ablation studies on CDSR demonstrate that our framework sets new
 
 Read our [paper](frisoni_italiani_salvatori_moro_AAAI2023.pdf)
 
-## 🔎 Paper
+## 🔎 Poster
 
 Read our [poster](AAAI23_poster.pdf)
 
