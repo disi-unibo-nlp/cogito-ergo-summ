@@ -8,7 +8,7 @@
 
 ## Overview
 
-Code and data accompanying the AAAI23 paper ["Cogito Ergo Summ: Abstractive Summarization of Biomedical Papers via Semantic Parsing Graphs and Consistency Rewards"](todo).
+Code and data accompanying the AAAI23 paper ["Cogito Ergo Summ: Abstractive Summarization of Biomedical Papers via Semantic Parsing Graphs and Consistency Rewards"](frisoni_italiani_salvatori_moro_AAAI2023.pdf).
 
 CogitoErgoSumm is the first framework for single-document biomedical abstractive summarization equipping large pre-trained language models with rich domain-specific and domain-general semantic parsing graphs: events and AMRs. Event and AMR graph embeddings are learned by edge-aware graph attention networks. We propose new decoder cross-attention modules, and design a reinforcement learning (RL) reward signal to preserve source-summary semantics consistency.
 
