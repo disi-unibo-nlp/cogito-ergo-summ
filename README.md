@@ -33,6 +33,10 @@ Read our [paper](frisoni_italiani_salvatori_moro_AAAI2023.pdf)
 
 Read our [poster](AAAI23_poster.pdf)
 
+## 🔎 Supplementary Material
+
+Read our [supplementary material](AAAI23_supplementary_material.pdf)
+
 <!-------------------------------------------------------------------------------->
 
 ## ✉ Contacts
